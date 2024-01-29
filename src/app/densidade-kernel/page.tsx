@@ -14,8 +14,14 @@ export default function DensidadeKernel() {
             <NavigationMenuComponent />
           </div>
 
-          <div className="flex">
-
+          <div className="flex items-center flex-col">
+            <div className='p-6'>
+              <label>Planilha</label>
+              <input type="file" />
+            </div>
+            <div>
+              
+            </div>
           </div>
 
       </div>
